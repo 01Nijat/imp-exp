@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\bin\Debug\netcoreapp3.1\implicit explicit.exe
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\bin\Debug\netcoreapp3.1\implicit explicit.deps.json
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\bin\Debug\netcoreapp3.1\implicit explicit.runtimeconfig.json
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\bin\Debug\netcoreapp3.1\implicit explicit.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\bin\Debug\netcoreapp3.1\implicit explicit.dll
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\bin\Debug\netcoreapp3.1\implicit explicit.pdb
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.dll
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.pdb
+C:\Users\ASUS\source\repos\iearxia\implicit explicit\obj\Debug\netcoreapp3.1\implicit explicit.genruntimeconfig.cache

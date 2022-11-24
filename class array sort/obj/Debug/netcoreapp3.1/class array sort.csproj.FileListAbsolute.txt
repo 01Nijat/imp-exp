@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\iearxia\class array sort\bin\Debug\netcoreapp3.1\class array sort.exe
+C:\Users\ASUS\source\repos\iearxia\class array sort\bin\Debug\netcoreapp3.1\class array sort.deps.json
+C:\Users\ASUS\source\repos\iearxia\class array sort\bin\Debug\netcoreapp3.1\class array sort.runtimeconfig.json
+C:\Users\ASUS\source\repos\iearxia\class array sort\bin\Debug\netcoreapp3.1\class array sort.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\iearxia\class array sort\bin\Debug\netcoreapp3.1\class array sort.dll
+C:\Users\ASUS\source\repos\iearxia\class array sort\bin\Debug\netcoreapp3.1\class array sort.pdb
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.dll
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.pdb
+C:\Users\ASUS\source\repos\iearxia\class array sort\obj\Debug\netcoreapp3.1\class array sort.genruntimeconfig.cache

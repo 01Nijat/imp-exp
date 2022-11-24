@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\iearxia\iearxia\bin\Debug\netcoreapp3.1\iearxia.exe
+C:\Users\ASUS\source\repos\iearxia\iearxia\bin\Debug\netcoreapp3.1\iearxia.deps.json
+C:\Users\ASUS\source\repos\iearxia\iearxia\bin\Debug\netcoreapp3.1\iearxia.runtimeconfig.json
+C:\Users\ASUS\source\repos\iearxia\iearxia\bin\Debug\netcoreapp3.1\iearxia.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\iearxia\iearxia\bin\Debug\netcoreapp3.1\iearxia.dll
+C:\Users\ASUS\source\repos\iearxia\iearxia\bin\Debug\netcoreapp3.1\iearxia.pdb
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.dll
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.pdb
+C:\Users\ASUS\source\repos\iearxia\iearxia\obj\Debug\netcoreapp3.1\iearxia.genruntimeconfig.cache
